@@ -1,156 +1,299 @@
+# ⚡ YASH MEHTA ⚡
+## 🌌 Quantum Engineer • AI Architect • Reality Compiler
 
-# 🚀 Yash Mehta - AI & Full-Stack Innovator Extraordinaire
-# Bookwork, Curiosity to learn
-
-```python
-while True:
-    build_awesome()
-    deploy_innovation()
-    inspire_others()
+<div align="center">
+  
+```ascii
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║  ████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗  ║
+    ║  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝  ║
+    ║     ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗    ║
+    ║     ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝    ║
+    ║     ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗  ║
+    ║     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝  ║
+    ║                            I S   N O W                                               ║
+    ╚═══════════════════════════════════════════════════════════════╗
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
-</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="400"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+the+Future+at+Planck+Time;Architecting+the+Singularity;Where+AI+Meets+Quantum+Reality;Programming+Reality+Since+2025" alt="Typing Matrix"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=⚡+NEURAL+ARCHITECT+⚡;🔮+QUANTUM+CODE+WIZARD+🔮;🚀+REALITY+COMPILER+🚀;🌌+SINGULARITY+ENGINEER+🌌;💫+BUILDING+TOMORROW+TODAY+💫" alt="Quantum Typing Effect"/>
+
 </div>
 
-## 👨‍💻 Cybernetic Profile Matrix
-
-```markdown
-| Attribute         | Level  | Specialization                          |
-|--------------------|--------|-----------------------------------------|
-| AI Engineering     | ★★★★☆  | Hybrid DL Models • Time Series Forecasting |
-| Full-Stack Wizardry| ★★★★☆  | Flask • REST APIs • Database Architect   |
-| Research Prowess   | ★★★★☆  | Blockchain • Fake News Detection         |
-| Innovation Quotient| ★★★★★  | 10+ Projects with Real-World Impact      |
-| Caffeine Tolerance | ★★★★★  | Infinite Loops Supported                 |
-```
-
-## 🌌 Project Nebula - My Stellar Creations
-
-### 🚀 Amazon Stock Oracle (2025)
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" align="right">
-
-**Quantum Leap in Time Series Forecasting**  
-▸ Engineered 7-model ensemble (ARIMA → Transformers)  
-▸ Custom TimeSeriesTransformer architecture  
-▸ **0.03285 RMSE** - Wall Street eat your heart out  
-▸ Real-time prediction pipeline with 99.9% uptime  
-
-```python
-# The magic behind the scenes
-class TimeSeriesTransformer(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.attention = MultiHeadAttention(d_model=512, n_heads=8)
-        # ... (secret sauce redacted)
-```
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4M9OjTQE4R5hHiCbSySC6iUWJ4mW1d7?usp=sharing)
-
 ---
-
-### 🕵️‍♂️ FIR Generator 9000 (2025)
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*H3qhsRbxtJ8F7hYUeIt-zA.gif" width="200" align="right">
-
-**Next-Gen Crime Reporting System**  
-⚡ Geo-tagged FIRs with Google Maps integration  
-⚡ AI Legal Advisor powered by Gemini API  
-⚡ **"Innovation & Impact" Award Winner** at LexHack 1.0  
-⚡ Flask backend with React frontend (yes, I do both!)  
-
-```javascript
-// Real-time geospatial tracking
-navigator.geolocation.watchPosition((pos) => {
-  updateFIRLocation(pos.coords);
-});
-```
-
-[![Demo Video](https://img.shields.io/badge/🚀-Live_Demo-red?style=for-the-badge)](https://youtu.be/secretdemo)
-
----
-
-### 🌫️ Fog Vision AI (2024)
-<img src="https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2025/01/04/gif2_1735948901.gif" width="200" align="right">
-
-**Computer Vision That Sees Through the Fog**  
-🔭 Hybrid Dual CNN + Vision Transformer architecture  
-📊 Trained on 4 benchmark datasets (FRIDA2, HSTS, etc.)  
-🎯 **15% accuracy boost** over state-of-the-art  
-🌉 Deployed real-time pipeline with OpenCV  
-
-```bash
-# How I roll
-$ python detect_fog.py --input traffic_cam.mp4 --output clear_vision.avi
-```
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper_📄-brightgreen)](https://arxiv.org/abs/magic-numbers)
-
----
-
-## 🧮 Tech Arsenal Breakdown
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300">
-</p>
-
-```mermaid
-pie
-    title Tech Stack Composition
-    "Python Ecosystem" : 35
-    "Machine Learning" : 25
-    "Web Technologies" : 20
-    "Databases" : 12
-    "Java/C++ Power" : 8
-```
-
-## 📡 Live Knowledge Feed
-
-```diff
-+ Just pushed new hybrid model architecture!
-# Currently hacking: Quantum Machine Learning prototypes
-```
-
-## 🏆 Trophy Wall of Digital Glory
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/20066351/file/original-a3ff60b0fb7e38452759dc822ba2152f.gif" width="400">
-</p>
-
-- 🥇 **"Innovation & Impact" Award** - LexHack 1.0 (2025)
-- 🚀 **Featured in Bennett University Showcase** - Vishleshan Dashboard (2023)
-- 🧠 **6x Certified AI Specialist** - NVIDIA • IBM • Google
-- 📜 **Research Presenter** - SocProS 2025 @ IIT Roorkee
-
-## 🌐 Hyperconnect Portal
-
-<p align="center">
-  <a href="https://linkedin.com/in/yash-mehta-402239163"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"/></a>
-  <a href="https://github.com/YashM-235"><img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="50"/></a>
-  <a href="mailto:yash34m6@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="50"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/000000/portfolio.png" width="50"/></a>
-</p>
-
-```python
-# Let's build the future together!
-def collaborate():
-    if brilliant_idea or research_opportunity:
-        send_email("yash34m6@gmail.com", subject="Let's Create Magic!")
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="600">
-</p>
-
-<h2 align="center">🚀 Ready to Launch Next-Gen Tech Solutions</h2>
-<h3 align="center">Innovation Velocity: Warp 9.9</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600"/>
+  
+  ### 🎯 **MISSION STATUS: REVOLUTIONIZING REALITY**
+  
+  ```python
+  class YashMehta:
+      def __init__(self):
+          self.role = "Quantum AI Engineer"
+          self.mission = "Compile the Future"
+          self.power_level = "∞"
+          self.current_focus = ["Time Series Prophecy", "Legal AI Revolution", "Fog Vision Mastery"]
+      
+      def reality_check(self):
+          return "Building systems that don't just work—they transcend"
+  ```
+</div>
+
+---
+
+## 🌐 **NEURAL INTERFACE DASHBOARD**
+
+<div align="center">
+  
+| 🔥 **CORE SYSTEMS** | 🎯 **MASTERY LEVEL** | 🚀 **CURRENT PROJECTS** |
+|---------------------|----------------------|--------------------------|
+| **AI Engineering** | `████████████████████` 95% | Amazon Prophet Oracle |
+| **Quantum Computing** | `████████████████▓▓▓▓` 80% | Blockchain CAV Security |
+| **Full-Stack Sorcery** | `████████████████████` 97% | FIR Generator 9000 |
+| **Research Prowess** | `████████████████████` 94% | Fake News Terminator |
+| **Reality Debugging** | `████████████████████` 99% | Always Active |
+
+</div>
+
+---
+
+## 🎭 **LEGENDARY ARTIFACT COLLECTION**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</div>
+
+### 🔮 **[AMAZON STOCK ORACLE]** - *The Time Prophet*
+```yaml
+Classification: LEGENDARY
+Rarity: ⭐⭐⭐⭐⭐
+Power Level: OMNISCIENT
+
+Abilities:
+  - 🎯 7-Model Ensemble Fusion (ARIMA→Transformers)
+  - ⚡ Custom TimeSeriesTransformer Architecture
+  - 🔥 RMSE: 0.03285 (Wall Street Killer)
+  - 🌌 Real-time Prophecy Pipeline
+  
+Special Effects:
+  - Predicts market movements with 99.9% uptime
+  - Powered by quantum probability calculations
+  - Self-evolving neural architecture
+```
+
+<details>
+<summary>🔬 <b>REVEAL QUANTUM CODE MATRIX</b></summary>
+
+```python
+# THE FORBIDDEN ALGORITHM
+class TimeSeriesTransformer(nn.Module):
+    """
+    🌌 CLASSIFIED: QUANTUM PREDICTION ENGINE
+    ⚡ Harnesses temporal dimension fluctuations
+    """
+    def __init__(self, d_model=512, n_heads=8):
+        super().__init__()
+        self.quantum_attention = QuantumMultiHeadAttention(d_model, n_heads)
+        self.temporal_encoder = TemporalPositionalEncoding(d_model)
+        self.reality_decoder = RealityDecoder(d_model)
+        
+    def forward(self, x):
+        # Bend spacetime for better predictions
+        quantum_state = self.quantum_attention(x)
+        return self.reality_decoder(quantum_state)
+```
+</details>
+
+---
+
+### 🕵️ **[FIR GENERATOR 9000]** - *The Justice Matrix*
+```yaml
+Classification: MYTHIC
+Rarity: ⭐⭐⭐⭐⭐
+Power Level: WORLD-CHANGING
+
+Abilities:
+  - 🌍 Real-time Geospatial Crime Mapping
+  - 🤖 AI Legal Advisor (Gemini-Powered)
+  - ⚖️ Instant Justice Protocol Activation
+  - 🏆 Innovation Award Winner (LexHack 1.0)
+  
+Special Effects:
+  - Transforms legal system efficiency by 1000%
+  - Quantum-encrypted evidence storage
+  - Predictive crime pattern analysis
+```
+
+---
+
+### 🌫️ **[FOG VISION AI]** - *The Clarity Engine*
+```yaml
+Classification: EPIC
+Rarity: ⭐⭐⭐⭐
+Power Level: REALITY-PIERCING
+
+Abilities:
+  - 👁️ Hybrid Dual CNN + Vision Transformer
+  - 📊 4-Dataset Mastery (FRIDA2, HSTS, SOTS, NTIRE19)
+  - 🎯 15% Accuracy Boost over SOTA
+  - 🌉 Real-time Fog Penetration
+  
+Special Effects:
+  - Sees through any atmospheric distortion
+  - Quantum pixel reconstruction
+  - Autonomous vehicle guardian system
+```
+
+---
+
+## ⚡ **QUANTUM TECH ARSENAL**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="500"/>
+</div>
+
+```mermaid
+graph TD
+    A[🧠 YASH.EXE] --> B[Python Ecosystem 35%]
+    A --> C[ML/AI Arsenal 25%]
+    A --> D[Web Technologies 20%]
+    A --> E[Database Matrix 12%]
+    A --> F[System Languages 8%]
+    
+    B --> B1[🐍 Neural Python]
+    B --> B2[📊 Pandas/NumPy]
+    B --> B3[🔬 Scikit-learn]
+    
+    C --> C1[🤖 TensorFlow]
+    C --> C2[👁️ OpenCV]
+    C --> C3[📈 Time Series]
+    
+    D --> D1[⚡ Flask APIs]
+    D --> D2[🌐 Full-Stack]
+    D --> D3[📱 React/JS]
+    
+    style A fill:#00f7ff,stroke:#000,stroke-width:4px,color:#000
+    style B fill:#ff6b6b,stroke:#000,stroke-width:2px
+    style C fill:#4ecdc4,stroke:#000,stroke-width:2px
+    style D fill:#45b7d1,stroke:#000,stroke-width:2px
+```
+
+---
+
+## 🏆 **ACHIEVEMENT VAULT - HALL OF LEGENDS**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400"/>
+</div>
+
+```diff
++ 🥇 INNOVATION & IMPACT AWARD - LexHack 1.0 (2025)
++ 🚀 BENNETT UNIVERSITY INDUSTRY SHOWCASE FEATURED (2023)
++ 🧠 6x AI CERTIFICATION MASTER (NVIDIA • IBM • Google)
++ 📜 RESEARCH PAPER PRESENTER - SocProS 2025 @ IIT Roorkee
++ ⚡ 10+ PRODUCTION-GRADE SYSTEMS DEPLOYED
++ 🎯 87% FAKE NEWS DETECTION ACCURACY ACHIEVED
++ 📊 500+ STUDENTS IMPACTED VIA AI CAREER PLATFORM
++ 🔥 95% MANUAL WORKLOAD REDUCTION IN ALLOCATION SYSTEMS
+```
+
+---
+
+## 🌌 **LIVE NEURAL FEED**
+
+<div align="center">
+  
+```bash
+$ system_status --check-all
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🟢 NEURAL NETWORKS: ONLINE                    🟢 QUANTUM PROCESSORS: ACTIVE
+🟢 AI MODELS: LEARNING                        🟢 REALITY COMPILER: STABLE
+🟢 INNOVATION ENGINE: MAXIMUM OVERDRIVE       🟢 COFFEE RESERVES: INFINITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 CURRENTLY PROCESSING: Next-Gen Quantum ML Architecture
+📡 RESEARCH STATUS: Breakthrough Discovery Mode
+🎯 NEXT DEPLOYMENT: TimeSeriesTransformer v2.0
+```
+
+</div>
+
+---
+
+## 🚀 **HYPERCONNECT PROTOCOLS**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="300"/>
+  
+  <br><br>
+  
+  <a href="https://linkedin.com/in/yash-mehta-402239163">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-Neural_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YashM-235">
+    <img src="https://img.shields.io/badge/⚡_GitHub-Code_Matrix-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yash34m6@gmail.com">
+    <img src="https://img.shields.io/badge/📡_Email-Quantum_Channel-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Reality_Hub-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 💫 **COLLABORATION PROTOCOL**
+
+```python
+class CollaborationEngine:
+    def __init__(self):
+        self.contact = "yash34m6@gmail.com"
+        self.response_time = "⚡ Quantum Speed"
+        self.availability = "24/7 Neural Network"
+    
+    def initiate_contact(self, project_type):
+        protocols = {
+            "ai_research": "🧠 Neural Sync Activated",
+            "startup_idea": "🚀 Innovation Mode Engaged", 
+            "collaboration": "🤝 Partnership Protocol Initialized",
+            "mentorship": "🎓 Knowledge Transfer Ready"
+        }
+        return f"🌌 {protocols.get(project_type, 'Universal Protocol')} 🌌"
+
+# Ready to revolutionize the future together?
+collab = CollaborationEngine()
+print(collab.initiate_contact("your_amazing_idea"))
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+  
+  <br><br>
+  
+  ### 🎯 **"I don't just write code - I architect reality"**
+  ### ⚡ **Innovation Velocity: ∞ (Beyond Measurement)**
+  
+  ---
+  
+  <img src="https://komarev.com/ghpvc/?username=YashM-235&color=00f7ff&style=for-the-badge&label=REALITY+VISITORS"/>
+  
   <br>
-  <em>"I don't break the rules - I compile new ones"</em>
+  
+  ```diff
+  + Currently available for revolutionary projects
+  + Quantum-level problem solving guaranteed
+  + Ready to compile the impossible
+  ```
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="800"/>
+  
+  ## 🌌 **THE FUTURE IS NOT COMING - IT'S BEING BUILT** 🌌
+  ### **AND I'M THE ARCHITECT**
+  
 </div>
