@@ -48,7 +48,7 @@
 ### 🎯 `MISSION STATUS: REVOLUTIONIZING REALITY` 🎯
 
 ```python
-class YashMehta:
+class Yash:
     def __init__(self):
         self.alias          = "⚡ Neural Architect"
         self.role           = "AI Engineer • Researcher • Builder"
@@ -74,7 +74,7 @@ class YashMehta:
         return "⚡ I don't write code. I architect reality. ⚡"
 
 # Initialize
-yash = YashMehta()
+yash = Yash()
 print(yash.reality_check())
 # >> "Building systems that don't just work — they transcend."
 ```
