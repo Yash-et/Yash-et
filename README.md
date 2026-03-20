@@ -4,7 +4,7 @@
 <!--                  CINEMATIC HEADER                      -->
 <!-- ██████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:00f7ff20,100:7b2fff&height=280&section=header&text=YASH%20MEHTA&fontSize=80&fontColor=00f7ff&fontAlignY=45&animation=twinkling&stroke=00f7ff&strokeWidth=3&desc=⚡%20Neural%20Architect%20•%20AI%20Engineer%20•%20Reality%20Compiler%20⚡&descSize=20&descAlignY=68&descColor=ffffff&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:00f7ff20,100:7b2fff&height=280&section=header&text=YASH%20&fontSize=80&fontColor=00f7ff&fontAlignY=45&animation=twinkling&stroke=00f7ff&strokeWidth=3&desc=⚡%20Neural%20Architect%20•%20AI%20Engineer%20•%20Reality%20Compiler%20⚡&descSize=20&descAlignY=68&descColor=ffffff&descAlign=50"/>
 
 <br>
 
