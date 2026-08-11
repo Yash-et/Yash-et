@@ -59,7 +59,7 @@ class Yash:
             "🔮 Time Series Prophecy  → Transformers",
             "⚖️  Legal AI Revolution   → FIR Generator 9000",
             "🌫️  Fog Vision Mastery    → CNN + ViT Hybrid",
-            "⚛️  Quantum Computing     → IIT Delhi Certified",
+            "⚛️  Quantum Computing     → Learner",
         ]
         self.achievements   = [
             "🌟 LexHack 1.0 — Appreciated & Recognized by Judges",
