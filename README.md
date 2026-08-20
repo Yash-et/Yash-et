@@ -32,7 +32,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=YashM-235&color=00f7ff&style=for-the-badge&label=⚡+REALITY+VISITORS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YashM-235?style=for-the-badge&color=00f7ff&labelColor=000000&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Yash-et?style=for-the-badge&color=00f7ff&labelColor=000000&label=FOLLOWERS"/>
 
 </div>
 
