@@ -539,9 +539,9 @@ print(collab.initiate_contact("your_signal_here"))
 
 <br>
 
-### 🌌 `"The future is not coming — it's being compiled."` 🌌
+### 🌌 `"The future is not coming - it's being compiled."` 🌌
 ### ⚡ `AND I AM THE ARCHITECT` ⚡
-### ⚡ `CURIOUS LEARNER` ⚡
+### ⚡ `CURIOUS [AGOG] LEARNER` ⚡
 
 <br>
 
