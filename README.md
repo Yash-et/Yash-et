@@ -117,7 +117,7 @@ print(yash.reality_check())
 
 <br>
 
-### 🔮 `[ AMAZON STOCK ORACLE ]` — *The Time Prophet*
+### 🔮 `[ AMAZON STOCK ORACLE ]` - *The Time Prophet*
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -139,7 +139,7 @@ print(yash.reality_check())
 ```
 
 <details>
-<summary>🔬 &nbsp;<b>[ REVEAL CORE ALGORITHM — CLASSIFIED ]</b></summary>
+<summary>🔬 &nbsp;<b>[ REVEAL CORE ALGORITHM - CLASSIFIED ]</b></summary>
 <br>
 
 ```python
@@ -181,7 +181,7 @@ class TimeSeriesTransformer(nn.Module):
 
 ---
 
-### 🕵️ `[ FIR GENERATOR 9000 ]` — *The Justice Matrix*
+### 🕵️ `[ FIR GENERATOR 9000 ]` - *The Justice Matrix*
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -204,7 +204,7 @@ class TimeSeriesTransformer(nn.Module):
 
 ---
 
-### 🌫️ `[ FOG VISION AI ]` — *The Clarity Engine*
+### 🌫️ `[ FOG VISION AI ]` - *The Clarity Engine*
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -227,7 +227,7 @@ class TimeSeriesTransformer(nn.Module):
 
 ---
 
-### 🕸️ `[ FAKE NEWS TERMINATOR ]` — *The Truth Engine*
+### 🕸️ `[ FAKE NEWS TERMINATOR ]` - *The Truth Engine*
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -321,7 +321,7 @@ graph TD
 <!--              ACHIEVEMENT VAULT                         -->
 <!-- ██████████████████████████████████████████████████████ -->
 
-## 🏆 `ACHIEVEMENT VAULT — HALL OF LEGENDS`
+## 🏆 `ACHIEVEMENT VAULT - HALL OF LEGENDS`
 
 <div align="center">
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="420"/>
@@ -403,7 +403,7 @@ todays_question = "How do I make my models not just accurate — but explainable
 
 ---
 
-## 🌌 `EXPLORER'S LOG — WHAT EXCITES ME RIGHT NOW`
+## 🌌 `EXPLORER'S LOG - WHAT EXCITES ME RIGHT NOW`
 
 <div align="center">
 
