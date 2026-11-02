@@ -321,7 +321,7 @@ graph TD
 <!--              ACHIEVEMENT VAULT                         -->
 <!-- ██████████████████████████████████████████████████████ -->
 
-## 🏆 `ACHIEVEMENT VAULT - HALL OF LEGENDS`
+## 🏆 `ACHIEVEMENT VAULT : HALL OF LEGENDS`
 
 <div align="center">
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="420"/>
