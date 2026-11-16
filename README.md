@@ -334,15 +334,15 @@ graph TD
 @@  ║           CLASSIFIED ACHIEVEMENT DATABASE            ║  @@
 @@  ╚══════════════════════════════════════════════════════╝  @@
 
-+ 🌟  [2025]  JUDGE-RECOGNIZED INNOVATION ——— LexHack 1.0 (Promising Idea)
-+ 📜  [2025]  RESEARCH PAPER PRESENTER  ————— SocProS @ IIT Roorkee
-+ ⚛️   [2025]  QUANTUM COMPUTING & QKD  ————— IIT Delhi Workshop
-+ 🧠  [2024]  7× AI CERTIFICATION MASTER ———— NVIDIA · IBM · Google · IIT-D
-+ 🚀  [2023]  INDUSTRY SHOWCASE FEATURED ———— Bennett University
-+ 📦  [----]  10+ PRODUCTION ML SYSTEMS  ———— Deployed & Active
-+ 👥  [----]  500+ STUDENTS IMPACTED     ———— AI Career Platform
-+ 📰  [----]  87% FAKE NEWS ACCURACY     ———— NLP Ensemble System
-+ ⚙️   [----]  95% WORKLOAD REDUCTION     ———— Automated Allocation AI
++ 🌟  [2025]  JUDGE-RECOGNIZED INNOVATION ----- LexHack 1.0 (Promising Idea)
++ 📜  [2025]  RESEARCH PAPER PRESENTER  ----- SocProS @ IIT Roorkee
++ ⚛️   [2025]  QUANTUM COMPUTING & QKD  ----- IIT Delhi Workshop
++ 🧠  [2024]  7× AI CERTIFICATION MASTER ----- NVIDIA · IBM · Google · IIT-D
++ 🚀  [2023]  INDUSTRY SHOWCASE FEATURED ----- Bennett University
++ 📦  [----]  10+ PRODUCTION ML SYSTEMS  ----- Deployed & Active
++ 👥  [----]  500+ STUDENTS IMPACTED     ----- AI Career Platform
++ 📰  [----]  87% FAKE NEWS ACCURACY     ----- NLP Ensemble System
++ ⚙️   [----]  95% WORKLOAD REDUCTION     ----- Automated Allocation AI
 ```
 
 ---
